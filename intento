@@ -1,0 +1,5 @@
+git init
+git add index.html
+git commit "Mensaje de confirmacion"
+git remote add origin
+git push -u origin master
